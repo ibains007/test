@@ -1,0 +1,7 @@
+./terraform
+./terraform/*
+.terraform*
+.terraform/modules/modules.json
+terraform-provider*
+*/.teraform
+cleanup.sh
